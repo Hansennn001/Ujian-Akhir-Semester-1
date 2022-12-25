@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum
 
-Soal nomor satu ini adalah mengenai Array dua dimensi, Array dua dimensi adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka. Analogi yang sering dipakai seperti titik koordinat dalam diagram kartesius. Diagram kartesius merupakan diagram yang biasa kita pakai untuk membuat grafik. jadi sebuah array akan membentuk sebuah matriks dalam codingan tersebut.
+Soal nomor satu ini adalah mengenai Array dua dimensi, Array dua dimensi adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka. Analogi yang sering dipakai seperti titik koordinat dalam diagram kartesius. Diagram kartesius merupakan diagram yang biasa kita pakai untuk membuat grafik. jadi sebuah array akan membentuk sebuah matriks dalam codingan tersebut. Dalam kasus ini, saya hanya mengubah bagian kolom untuk menjadi baris dan juga sebaliknya.
 
 ## Source Code
 
