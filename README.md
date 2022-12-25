@@ -1,8 +1,8 @@
 # Ujian Akhir Semester 
-Mata Kuliah 	: Dasar Pemrograman
-Nama		      : Alhan Husen
-NIM		        :	1227050015
-Jurusan		    : [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br> Mata Kuliah 	: Dasar Pemrograman
+<br> Nama		: Alhan Husen
+<br> NIM		: 1227050015
+<br> Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 Soal nomor satu ini adalah mengenai Array dua dimensi, Array dua dimensi adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka. Analogi yang sering dipakai seperti titik koordinat dalam diagram kartesius. Diagram kartesius merupakan diagram yang biasa kita pakai untuk membuat grafik. jadi sebuah array akan membentuk sebuah matriks dalam codingan tersebut.
