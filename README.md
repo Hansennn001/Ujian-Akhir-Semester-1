@@ -55,5 +55,7 @@ int main(){
   }
 }
 
+
 ## Output
-  ![uas1a](https://user-images.githubusercontent.com/120738510/209471927-4e0b3dac-2a13-4acd-b951-a5aa95ed9461.jpg)
+![uas2](https://user-images.githubusercontent.com/120738510/209472245-fffb7a44-a6ce-48ab-9262-ace150fc90be.jpg)
+
