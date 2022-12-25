@@ -14,6 +14,7 @@ using namespace std;
 int main(){
   cout << "Nama : Alhan Husein\n"
   	   << "NIM  : 1227050015\n\n";
+	
   int i, j, x, y, matriks[20][20], pemutaran[20][20];
 
   cout << "Masukkan baris matriks: ";
@@ -23,6 +24,7 @@ int main(){
   cout << endl;
 
   cout << "Masukkan value matriks \n";
+	
   for (i = 0; i < x; i++) {
     for (j = 0; j < y; j++) {
       cout << "Value Baris " << i+1 << " Kolom " << j+1 << " = " ;
@@ -32,6 +34,7 @@ int main(){
   cout << "\n";
 
   cout << "Matriks Sebelum Diubah : \n";
+	
   for (i = 0; i < x; i++){
     for (j = 0; j < y; j++){
       cout << matriks[i][j] << "\t";
@@ -47,6 +50,7 @@ int main(){
   }
 
   cout << "Hasil Pemutaran Matriks: \n";
+	
   for (i = 0; i < y; i++){
     for (j = 0; j < x; j++){
       cout << pemutaran[i][j] << "\t";
@@ -57,5 +61,5 @@ int main(){
 
 
 ## Output
-![uas2](https://user-images.githubusercontent.com/120738510/209472245-fffb7a44-a6ce-48ab-9262-ace150fc90be.jpg)
 
+![uas1a](https://user-images.githubusercontent.com/120738510/209472283-35927e4a-d7bb-4cd2-a748-4ac4d51adee5.jpg)
